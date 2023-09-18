@@ -10,4 +10,4 @@ function solution(s1, s2) {
 }
 
 console.log(solution(["a", "b", "c"], ["com", "b", "d", "p", "c"]));
-console.log(solution(["n", "omg"], [("m", "dot")]));
+console.log(solution(["n", "omg"], ["m", "dot"]));

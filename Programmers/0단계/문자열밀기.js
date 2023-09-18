@@ -29,5 +29,5 @@ function solution(cipher, code) {
   return answer;
 }
 
-console.log(solution("dfjardstddetckdaccccdegk", 4));
-console.log(solution("pfqallllabwaoclk", 2));
+solution("dfjardstddetckdaccccdegk", 4);
+solution("pfqallllabwaoclk", 2);

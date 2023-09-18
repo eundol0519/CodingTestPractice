@@ -20,6 +20,8 @@ function solution(arr, flag) {
     }
   }
 
+  console.log(x);
+
   return x;
 }
 
